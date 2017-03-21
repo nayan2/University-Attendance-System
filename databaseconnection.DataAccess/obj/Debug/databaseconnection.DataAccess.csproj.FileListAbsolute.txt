@@ -1,0 +1,11 @@
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\bin\Debug\databaseconnection.DataAccess.dll
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\bin\Debug\databaseconnection.DataAccess.pdb
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\bin\Debug\databaseconnection.Entities.dll
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\bin\Debug\databaseconnection.Framework.dll
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\bin\Debug\databaseconnection.Entities.pdb
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\bin\Debug\databaseconnection.Framework.pdb
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\obj\Debug\databaseconnection.DataAccess.csprojResolveAssemblyReference.cache
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\obj\Debug\databaseconnection.DataAccess.dll
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\obj\Debug\databaseconnection.DataAccess.pdb
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\bin\Debug\excelsheetconnection.Entities.dll
+E:\c# project\our_c_sharp_project\databaseconnection.DataAccess\bin\Debug\excelsheetconnection.Entities.pdb

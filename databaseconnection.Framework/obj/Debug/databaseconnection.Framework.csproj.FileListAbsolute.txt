@@ -1,0 +1,5 @@
+E:\c# project\our_c_sharp_project\databaseconnection.Framework\bin\Debug\databaseconnection.Framework.dll
+E:\c# project\our_c_sharp_project\databaseconnection.Framework\bin\Debug\databaseconnection.Framework.pdb
+E:\c# project\our_c_sharp_project\databaseconnection.Framework\obj\Debug\databaseconnection.Framework.dll
+E:\c# project\our_c_sharp_project\databaseconnection.Framework\obj\Debug\databaseconnection.Framework.pdb
+E:\c# project\our_c_sharp_project\databaseconnection.Framework\obj\Debug\databaseconnection.Framework.csprojResolveAssemblyReference.cache
